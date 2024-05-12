@@ -1,0 +1,16 @@
+ let myd={
+    name:'hellosir',
+     uname:'hellosir',
+     pass:'hellosir',
+     city:'hellosir'
+
+ }
+
+
+ action="/uploads" method="post" encType="multipart/form-data"
+ // <BrowserRouter>
+// <Routes>
+// <Route path="/post" element={<Form />}/>
+// <Route index element={<Home />} />
+// </Routes>
+// </BrowserRouter>
